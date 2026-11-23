@@ -1,0 +1,28 @@
+{
+  "products": {
+    "espresso": "https://unsplash.com/photos/6ZnhM-xBpos/download?force=true&w=800",
+    "americano": "https://commons.wikimedia.org/wiki/Special:FilePath/Espresso_Americano.jpeg?width=800",
+    "cappuccino": "https://unsplash.com/photos/8ycx27ysKxo/download?force=true&w=800",
+    "latte": "https://unsplash.com/photos/P6P56sEEqn8/download?force=true&w=800",
+    "mocha": "https://unsplash.com/photos/I4uVPDN2_KY/download?force=true&w=800",
+    "flat-white": "https://unsplash.com/photos/QTT3M47xcLs/download?force=true&w=800",
+    "macchiato": "https://unsplash.com/photos/UfIQnvGQQtc/download?force=true&w=800",
+    "iced-latte": "https://unsplash.com/photos/LJPAmUnE-QM/download?force=true&w=800",
+    "cold-brew": "https://unsplash.com/photos/OSLnJG62isk/download?force=true&w=800",
+    "frappe": "https://unsplash.com/photos/DoVbQbclR1s/download?force=true&w=800",
+    "iced-americano": "https://unsplash.com/photos/D-ePjGt2xe8/download?force=true&w=800",
+    "iced-matcha": "https://unsplash.com/photos/Ac6qAPiG2RY/download?force=true&w=800",
+    "chai": "https://images.pexels.com/photos/5946623/pexels-photo-5946623.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "kashmiri": "https://commons.wikimedia.org/wiki/Special:FilePath/The_Great_Kashmiri_Salt_tea.png?width=800",
+    "matcha-latte": "https://unsplash.com/photos/VKWjhlgFFwc/download?force=true&w=800",
+    "croissant": "https://commons.wikimedia.org/wiki/Special:FilePath/Croissant-Petr_Kratochvil.jpg?width=800",
+    "almond-croissant": "https://unsplash.com/photos/IFpOLUlMLuI/download?force=true&w=800",
+    "brownie": "https://unsplash.com/photos/Pv7mvanWTLk/download?force=true&w=800",
+    "cookie": "https://unsplash.com/photos/8DWN4Gui9Yk/download?force=true&w=800",
+    "double-choc-cookie": "https://unsplash.com/photos/YUUaapeq5Zo/download?force=true&w=800",
+    "blueberry-muffin": "https://commons.wikimedia.org/wiki/Special:FilePath/Blueberry_muffins_-_ND0_3639_(8694455448).jpg?width=800"
+  },
+  "hero": "https://unsplash.com/photos/8ycx27ysKxo/download?force=true&w=1200",
+  "auth": "https://unsplash.com/photos/DvaoJEksloQ/download?force=true&w=1200",
+  "cafe": "https://unsplash.com/photos/Xtj7o_V5p-s/download?force=true&w=1200"
+}
